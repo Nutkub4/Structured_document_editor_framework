@@ -382,7 +382,6 @@ All 21+ design patterns work together cohesively to create a robust, extensible 
 
 ---
 
-**Author**: AI-Assisted Implementation  
 **Language**: C++17  
 **Patterns**: 23 (21 required + 2 bonus)  
 **Status**: Complete & Tested ✅
